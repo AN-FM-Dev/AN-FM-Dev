@@ -1,45 +1,104 @@
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm **Abdullah Nasser**, a **Computer Engineering Student** at **Galala University (GU), Egypt 🇪🇬** and a **Freelance Backend Developer**.
+I'm **Abdullah Nasser**, a **Computer Engineering Undergraduate** at **Galala University (GU), Egypt 🇪🇬**, and a **Freelance Backend Developer**.
 
-I specialize in developing scalable web applications and management systems using **PHP**, **MySQL**, and modern web technologies. Alongside backend development, I have experience in **Data Analysis**, **Graphic Design**, and **Video Production**.
+I specialize in building scalable web applications, management systems, and automation solutions using **PHP**, **MySQL**, and modern web technologies.
 
-Previously, I contributed to the development of management systems and data analysis solutions for educational organizations, including projects serving programs in **Saudi Arabia**. I enjoy solving real-world problems through clean code, automation, and intuitive user experiences.
+Beyond backend development, I have professional experience in **Data Analysis**, **Creative Design**, and **Motion Graphics**, allowing me to deliver complete digital solutions from development to visual design.
 
-Outside software development, I work with **Adobe Illustrator**, **Photoshop**, **Premiere Pro**, and **After Effects** to create branding, UI assets, social media content, and motion graphics.
+I've contributed to software and data analysis solutions for educational organizations, including projects supporting educational programs in **Saudi Arabia**.
 
-I'm continuously expanding my skills in **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**, and I'm always open to collaborating on meaningful projects.
+I enjoy solving real-world problems through clean code, automation, and intuitive user experiences. I'm currently expanding my expertise in **Artificial Intelligence**, **Machine Learning**, and modern **Full Stack Development**.
 
 📫 **Email:** **lltqnytf@gmail.com**
 
-[![Gmail Badge](https://img.shields.io/badge/-lltqnytf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lltqnytf@gmail.com)](mailto:lltqnytf@gmail.com)
+---
+
+# 💼 Experience
+
+- 💻 Freelance Backend Developer
+- 📊 Data Analyst
+- 🎨 Creative Designer
+- 🎬 Motion Graphics Designer
 
 ---
 
-## ⚡ Technologies
+# 🎓 Education
 
-### 🌐 Frontend
+**Bachelor's Degree in Computer Engineering**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+**Galala University (GU)**
 
-### ⚙️ Backend
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=openjdk)
-
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+Expected Graduation: **2029**
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ Tech Stack
 
+## 🌐 Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+## ⚙️ Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## 🛠 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+# 🎨 Creative Tools
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 🚀 Interests
+
+- Backend Development
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Data Analysis
+- UI/UX Design
+- Motion Graphics
+- Arduino & Embedded Systems
+- Open Source
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=10)
+
+---
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
