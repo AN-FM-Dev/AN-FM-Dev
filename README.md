@@ -1,14 +1,14 @@
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm **Abdullah Nasser**, a **Computer Engineering Undergraduate** at **Galala University (GU), Egypt 🇪🇬**, and a **Freelance Backend Developer**.
+I'm **Abdullah Nasser**, a **Computer Engineering Undergraduate** at **Galala University (GU)** 🇪🇬, and a **Freelance Backend Developer**.
 
-I specialize in building scalable web applications, management systems, and automation solutions using **PHP**, **MySQL**, and modern web technologies.
+I develop web applications, management systems, and automation solutions using **PHP**, **MySQL**, and modern web technologies.
 
-Beyond backend development, I have professional experience in **Data Analysis**, **Creative Design**, and **Motion Graphics**, allowing me to deliver complete digital solutions from development to visual design.
+Beyond software development, I also work in **Data Analysis**, **Creative Design**, and **Motion Graphics**, combining technical and creative skills to build complete digital solutions.
 
-I've contributed to software and data analysis solutions for educational organizations, including projects supporting educational programs in **Saudi Arabia**.
+I've contributed to software and data analysis projects for educational organizations, including programs in **Saudi Arabia 🇸🇦**.
 
-I enjoy solving real-world problems through clean code, automation, and intuitive user experiences. I'm currently expanding my expertise in **Artificial Intelligence**, **Machine Learning**, and modern **Full Stack Development**.
+I'm currently learning **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.
 
 📫 **Email:** **lltqnytf@gmail.com**
 
@@ -82,23 +82,3 @@ Expected Graduation: **2029**
 - Motion Graphics
 - Arduino & Embedded Systems
 - Open Source
-
----
-
-# 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=10)
-
----
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
