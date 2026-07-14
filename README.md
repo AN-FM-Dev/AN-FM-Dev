@@ -78,7 +78,5 @@ Expected Graduation: **2029**
 - Artificial Intelligence
 - Machine Learning
 - Data Analysis
-- UI/UX Design
-- Motion Graphics
 - Arduino & Embedded Systems
 - Open Source
