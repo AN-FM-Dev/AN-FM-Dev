@@ -1,12 +1,16 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm **Abdullah Nasser**, a **Computer Engineering student** at **Galala University (GU), Egypt 🇪🇬**.
+I'm **Abdullah Nasser**, a **Computer Engineering Student** at **Galala University (GU), Egypt 🇪🇬** and a **Freelance Backend Developer**.
 
-💻 I work as a **Freelance Backend Developer**, building web applications and management systems using PHP and MySQL. I'm also passionate about software engineering, AI, and embedded systems with Arduino.
+I specialize in developing scalable web applications and management systems using **PHP**, **MySQL**, and modern web technologies. Alongside backend development, I have experience in **Data Analysis**, **Graphic Design**, and **Video Production**.
 
-I'm always interested in learning new technologies, contributing to open-source projects, and collaborating on exciting ideas.
+Previously, I contributed to the development of management systems and data analysis solutions for educational organizations, including projects serving programs in **Saudi Arabia**. I enjoy solving real-world problems through clean code, automation, and intuitive user experiences.
 
-Feel free to connect with me!
+Outside software development, I work with **Adobe Illustrator**, **Photoshop**, **Premiere Pro**, and **After Effects** to create branding, UI assets, social media content, and motion graphics.
+
+I'm continuously expanding my skills in **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**, and I'm always open to collaborating on meaningful projects.
+
+📫 **Email:** **lltqnytf@gmail.com**
 
 [![Gmail Badge](https://img.shields.io/badge/-lltqnytf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lltqnytf@gmail.com)](mailto:lltqnytf@gmail.com)
 
@@ -38,10 +42,4 @@ Feel free to connect with me!
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
