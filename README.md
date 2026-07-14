@@ -63,11 +63,13 @@ Expected Graduation: **2029**
 
 # 🎨 Creative Tools
 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="48" alt="Adobe Illustrator"/>
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="48" alt="Adobe Photoshop"/>
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="48" alt="Adobe Premiere Pro"/>
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="48" alt="Adobe After Effects"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="48" alt="Figma"/>
+</p>
 
 ---
 
