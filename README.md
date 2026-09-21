@@ -79,4 +79,3 @@ Expected Graduation: **2029**
 - Machine Learning
 - Data Analysis
 - Arduino & Embedded Systems
-- Open Source
